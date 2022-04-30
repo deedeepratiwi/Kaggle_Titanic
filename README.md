@@ -11,3 +11,21 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 Dataset: [Link](https://www.kaggle.com/competitions/titanic/data)
+
+## Step by Step
+
+**Exploratory Data Analysis**
+* Filling missing values
+* Data visualization
+**Feature Engineering**
+* Turn continuous numerical columns into categorical columns
+* Binnings
+* Create dummies
+**Feature Selection**
+* Use sklearn RFECV for feature selection
+**Model Selection**
+* Use GridSearch CV for three models: Logistic Regression, K-Nearest Neighbors, and Random Forest
+**Model Training**
+* Train model using the best model and selected features
+
+For this competition, this solution got accuracy score of 0.77272 on Kaggle leaderboard.
