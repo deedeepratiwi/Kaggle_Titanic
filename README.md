@@ -15,10 +15,10 @@ Dataset: [Link](https://www.kaggle.com/competitions/titanic/data)
 ### Exploratory Data Analysis
 
 We are going to do data visualization for each feature.
-![sex_pivot](C:\Users\Diana Pratiwi\Python_Project\Kaggle\Titanic\sex_pivot.jpg)
-![pclass_pivot](C:\Users\Diana Pratiwi\Python_Project\Kaggle\Titanic\pclass_pivot.jpg)
-![survival_age](C:\Users\Diana Pratiwi\Python_Project\Kaggle\Titanic\survival_age.jpg)
-![corr](C:\Users\Diana Pratiwi\Python_Project\Kaggle\Titanic\corr.jpg)
+![sex_pivot](/assets/images/sex_pivot.jpg)
+![pclass_pivot](/assets/images/pclass_pivot.jpg)
+![survival_age](/assets/images/survival_age.jpg)
+![corr](/assets/images/corr.jpg)
 
 
 
