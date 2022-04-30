@@ -11,15 +11,3 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 Dataset: [Link](https://www.kaggle.com/competitions/titanic/data)
-
-### Exploratory Data Analysis
-
-We are going to do data visualization for each feature.
-![sex_pivot](/assets/images/sex_pivot.jpg)
-![pclass_pivot](/assets/images/pclass_pivot.jpg)
-![survival_age](/assets/images/survival_age.jpg)
-![corr](/assets/images/corr.jpg)
-
-
-
-
