@@ -32,4 +32,4 @@ Dataset: [Link](https://www.kaggle.com/competitions/titanic/data)
 **Model Training**
 * Train model using the best model and selected features
 
-For this competition, this solution got accuracy score of 0.77272 on Kaggle leaderboard.
+For this competition, this solution got accuracy score of **0.77272** on Kaggle leaderboard.
