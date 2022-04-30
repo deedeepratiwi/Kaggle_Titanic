@@ -17,14 +17,18 @@ Dataset: [Link](https://www.kaggle.com/competitions/titanic/data)
 **Exploratory Data Analysis**
 * Filling missing values
 * Data visualization
+
 **Feature Engineering**
 * Turn continuous numerical columns into categorical columns
 * Binnings
 * Create dummies
+
 **Feature Selection**
 * Use sklearn RFECV for feature selection
+
 **Model Selection**
 * Use GridSearch CV for three models: Logistic Regression, K-Nearest Neighbors, and Random Forest
+
 **Model Training**
 * Train model using the best model and selected features
 
